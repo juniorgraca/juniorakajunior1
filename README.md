@@ -1,6 +1,6 @@
 
 
-# JUNIORAKAJUNOR
+# JUNIOR
 
   ## Me chamo José Carlos da Graça Júnior, ou mais conhecido como JUNIORAKAJUNIOR, sou casado, pai de um garotão, tenho 26 anos, moro em Campo Grande-MS, sou estudante de Front-end, atualmente trabalho no Exército Brasileiro.
 
